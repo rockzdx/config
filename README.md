@@ -3,7 +3,7 @@
 
 -  I’m currently learning **Java, Spring and DSA**
 
--  How to reach me **vishwamalyan@gmail.com**
+-  Reach me at **vishwamalyan@gmail.com**
 
 -  Fun fact **I used to play CSGO competitively :D**
 
